@@ -1,4 +1,4 @@
-# C++ Firmware and Hardware Prototyping for Low-Power IR Sensing (Smart City)
+# C++ Firmware and Hardware Prototyping for Low-Power IR Sensing (Smart City), (thesis project A.Y. 2023-2024)
 
 This repository provides the design for a micro-controller-based system:
 1.  **C++ Firmware** (Source Code) for data acquisition.
